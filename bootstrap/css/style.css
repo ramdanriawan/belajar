@@ -1,0 +1,10 @@
+.customdiv{
+margin: 3px;
+font-size: large;
+background-color: silver;
+min-height: 300px;
+}
+
+.affix{
+	top: 210px;
+}
